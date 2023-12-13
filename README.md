@@ -3,7 +3,7 @@ Un buen blog para el[ curso de Git y GitHub](https://platzi.com/cursos/git-githu
 >El curso de Git y GitHub de platzi me fue de utilidad para conseguir el trabajo que uno buscaba como programador.
 > - La programación es cultura 
 
-##Este curso lo tiene todo
+## Este curso lo tiene todo
 * todos los comandos de git
 * El flujo de trabajo en Github
 * Buenas practicas de trabajo
