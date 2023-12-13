@@ -10,5 +10,6 @@ Un buen blog para el[ curso de Git y GitHub](https://platzi.com/cursos/git-githu
 * trucos de programación
 * La esquizofrenia de los profesores
 * Creado por platzi team
+* incluye varios ejemplos en distintos sistemas operativos 
 
 Como recordatorio: **Este readme.md es un chiste**. Es para un ejemplo del curso. Creare un enlace para que se direccionen al [curso de platzi](https://platzi.com/cursos/git-github/ "curso de platzi").
